@@ -1,0 +1,14 @@
+
+
+# ExpenseReportsSubmitExpenseReportResponse
+
+
+## Properties
+
+| Name | Type | Description | Notes |
+|------------ | ------------- | ------------- | -------------|
+|**message** | **String** |  |  [optional] |
+|**expenseReportId** | **String** |  |  [optional] |
+
+
+
